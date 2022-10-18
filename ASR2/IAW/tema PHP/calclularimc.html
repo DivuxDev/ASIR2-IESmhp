@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+   <!-- codigo hecho por David Prado, este codigo recoge los datos de ALTURA y PESO para 
+calcular el IMC ademas de recoger el GENERO-->
+<html>
+<meta charset="utf-8" />
+<!-- Programa hecho por David Prado-->
+
+<body>
+    <h1>Cálculo del indice de masa corporal</h1>
+
+    <!-- inicio del formulario-->
+
+    <form method="POST" action="calcular.php">
+        Por favor , introduzca su altura en Cm: <input type="text" name="cm">
+        <br>
+        <br>
+        Por favor , introduzca su peso en Kg: <input type="text" name="kg">
+        <br>
+        <h2>Seleccione su género</h2>
+
+
+        <input type="radio" name="genero" value="hombre">
+        <label for="html">hombre</label>
+        <br>
+        <input type="radio" name="genero" value="mujer">
+        <label for="html">mujer</label>
+        <br>
+
+        <input type="submit" name="" value="rellenar">
+        <input type="reset" value="Borrar">
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+<?php
+#codigo hecho por david prado Mejuto, este codigo almacena en un array los primeros 50 numeros triangulares
+$n=50;
+$i=1;
+while ($i<=$n)
+{
+    $ntri=($i*($i+1))/2;
+    $array = array($ntri);
+    
+    foreach ($array as $a)
+    {
+        echo $a;
+        echo "<br>";
+        }
+    $i++;
+}
+
+?>

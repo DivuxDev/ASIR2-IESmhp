@@ -1,0 +1,79 @@
+dn: dc=examen,dc=es
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: examen
+dc: examen
+structuralObjectClass: organization
+entryUUID: 67d7291c-2fdd-103c-8e21-6708b781017f
+creatorsName: cn=admin,dc=examen,dc=es
+createTimestamp: 20220304080405Z
+entryCSN: 20220304080405.407038Z#000000#000#000000
+modifiersName: cn=admin,dc=examen,dc=es
+modifyTimestamp: 20220304080405Z
+
+dn: cn=admin,dc=examen,dc=es
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: admin
+description: LDAP administrator
+userPassword:: e1NTSEF9UmlUTERJNEhJd05ZQzJ0bGZPSVExTzVUeEhGa2QrUGQ=
+structuralObjectClass: organizationalRole
+entryUUID: 67d8dcda-2fdd-103c-8e22-6708b781017f
+creatorsName: cn=admin,dc=examen,dc=es
+createTimestamp: 20220304080405Z
+entryCSN: 20220304080405.418274Z#000000#000#000000
+modifiersName: cn=admin,dc=examen,dc=es
+modifyTimestamp: 20220304080405Z
+
+dn: ou=trabajos,dc=examen,dc=es
+objectClass: top
+objectClass: organizationalUnit
+ou: trabajos
+structuralObjectClass: organizationalUnit
+entryUUID: 0dc6dcbe-2fde-103c-8776-4f1a6e343e90
+creatorsName: cn=admin,dc=examen,dc=es
+createTimestamp: 20220304080843Z
+entryCSN: 20220304080843.802076Z#000000#000#000000
+modifiersName: cn=admin,dc=examen,dc=es
+modifyTimestamp: 20220304080843Z
+
+dn: cn=seres,ou=trabajos,dc=examen,dc=es
+objectClass: top
+objectClass: posixGroup
+gidNumber: 1010
+cn: seres
+structuralObjectClass: posixGroup
+entryUUID: 8cf17ec2-2fde-103c-8777-4f1a6e343e90
+creatorsName: cn=admin,dc=examen,dc=es
+createTimestamp: 20220304081217Z
+entryCSN: 20220304081217.152131Z#000000#000#000000
+modifiersName: cn=admin,dc=examen,dc=es
+modifyTimestamp: 20220304081217Z
+
+dn: uid=alumno,ou=trabajos,dc=examen,dc=es
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: person
+cn: alumno
+uid: alumno
+uidNumber: 2001
+gidNumber: 1010
+homeDirectory: /home/alumno
+loginShell: /bin/bash
+userPassword:: dXN1YXJpbzE=
+sn: alumno
+mail: alumno@examen.es
+givenName: alumno
+structuralObjectClass: inetOrgPerson
+entryUUID: 20b1f362-2fdf-103c-8778-4f1a6e343e90
+creatorsName: cn=admin,dc=examen,dc=es
+createTimestamp: 20220304081625Z
+entryCSN: 20220304081625.038480Z#000000#000#000000
+modifiersName: cn=admin,dc=examen,dc=es
+modifyTimestamp: 20220304081625Z
+
+2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    inet 192.168.218.1/24 brd 192.168.218.255 scope global enp0s3
+controlador

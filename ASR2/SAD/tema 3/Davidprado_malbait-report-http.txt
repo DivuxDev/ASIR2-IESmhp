@@ -1,0 +1,925 @@
+
+ ############## tcp server: AN EVIL HACKER CONNECTED TO US! #########################
+
+ *** Looptimes:1  *** Time: Wed Nov 24 09:47:23 2021  *** 
+ Them: 192.168.1.3 port 35836
+ Us: (our own IP) port 80
+________________________________________________________________
+ The client has contacted us 1 times this session 
+ Server:HTTP/1.1 200 OK
+Date: Sat, 07 Oct 2017 18:43:18 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 849
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html> <title> Hello, friends!</title>
+
+<body bgcolor="blue">
+ <font color="yellow">
+<P>
+<B> ATAQUE DETECTADO </B>
+<P>
+A un panal de rica miel dos mil moscas acudieron, que por golosas 
+murieron presas de patas en el
+<P>
+<B>
+capturando datos del atacante
+</B>
+<P>
+<I> INICIAMOS ACCIONES LEGALES</I>
+</font> 
+</HTML>
+
+
+________________________________________________________________
+Client :GET / HTTP/1.1
+
+ Analysis:
+
+ countchr:0 	 currentchr:G	 71 	 
+ countchr:1 	 currentchr:E	 69 	 
+ countchr:2 	 currentchr:T	 84 	 
+ countchr:3 	 currentchr: 	 32 	 
+ countchr:4 	 currentchr:/	 47 	 
+ countchr:5 	 currentchr: 	 32 	 
+ countchr:6 	 currentchr:H	 72 	 
+ countchr:7 	 currentchr:T	 84 	 
+ countchr:8 	 currentchr:T	 84 	 
+ countchr:9 	 currentchr:P	 80 	 
+ countchr:10 	 currentchr:/	 47 	 
+ countchr:11 	 currentchr:1	 49 	 
+ countchr:12 	 currentchr:.	 46 	 
+ countchr:13 	 currentchr:1	 49 	 
+ countchr:14 	 currentchr:	 13 	 
+ countchr:15 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 2 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Host: 192.168.1.2
+
+ Analysis:
+
+ countchr:0 	 currentchr:H	 72 	 
+ countchr:1 	 currentchr:o	 111 	 
+ countchr:2 	 currentchr:s	 115 	 
+ countchr:3 	 currentchr:t	 116 	 
+ countchr:4 	 currentchr::	 58 	 
+ countchr:5 	 currentchr: 	 32 	 
+ countchr:6 	 currentchr:1	 49 	 
+ countchr:7 	 currentchr:9	 57 	 
+ countchr:8 	 currentchr:2	 50 	 
+ countchr:9 	 currentchr:.	 46 	 
+ countchr:10 	 currentchr:1	 49 	 
+ countchr:11 	 currentchr:6	 54 	 
+ countchr:12 	 currentchr:8	 56 	 
+ countchr:13 	 currentchr:.	 46 	 
+ countchr:14 	 currentchr:1	 49 	 
+ countchr:15 	 currentchr:.	 46 	 
+ countchr:16 	 currentchr:2	 50 	 
+ countchr:17 	 currentchr:	 13 	 
+ countchr:18 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 3 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+ Analysis:
+
+ countchr:0 	 currentchr:U	 85 	 
+ countchr:1 	 currentchr:s	 115 	 
+ countchr:2 	 currentchr:e	 101 	 
+ countchr:3 	 currentchr:r	 114 	 
+ countchr:4 	 currentchr:-	 45 	 
+ countchr:5 	 currentchr:A	 65 	 
+ countchr:6 	 currentchr:g	 103 	 
+ countchr:7 	 currentchr:e	 101 	 
+ countchr:8 	 currentchr:n	 110 	 
+ countchr:9 	 currentchr:t	 116 	 
+ countchr:10 	 currentchr::	 58 	 
+ countchr:11 	 currentchr: 	 32 	 
+ countchr:12 	 currentchr:M	 77 	 
+ countchr:13 	 currentchr:o	 111 	 
+ countchr:14 	 currentchr:z	 122 	 
+ countchr:15 	 currentchr:i	 105 	 
+ countchr:16 	 currentchr:l	 108 	 
+ countchr:17 	 currentchr:l	 108 	 
+ countchr:18 	 currentchr:a	 97 	 
+ countchr:19 	 currentchr:/	 47 	 
+ countchr:20 	 currentchr:5	 53 	 
+ countchr:21 	 currentchr:.	 46 	 
+ countchr:22 	 currentchr:0	 48 	 
+ countchr:23 	 currentchr: 	 32 	 
+ countchr:24 	 currentchr:(	 40 	 
+ countchr:25 	 currentchr:X	 88 	 
+ countchr:26 	 currentchr:1	 49 	 
+ countchr:27 	 currentchr:1	 49 	 
+ countchr:28 	 currentchr:;	 59 	 
+ countchr:29 	 currentchr: 	 32 	 
+ countchr:30 	 currentchr:L	 76 	 
+ countchr:31 	 currentchr:i	 105 	 
+ countchr:32 	 currentchr:n	 110 	 
+ countchr:33 	 currentchr:u	 117 	 
+ countchr:34 	 currentchr:x	 120 	 
+ countchr:35 	 currentchr: 	 32 	 
+ countchr:36 	 currentchr:x	 120 	 
+ countchr:37 	 currentchr:8	 56 	 
+ countchr:38 	 currentchr:6	 54 	 
+ countchr:39 	 currentchr:_	 95 	 
+ countchr:40 	 currentchr:6	 54 	 
+ countchr:41 	 currentchr:4	 52 	 
+ countchr:42 	 currentchr:;	 59 	 
+ countchr:43 	 currentchr: 	 32 	 
+ countchr:44 	 currentchr:r	 114 	 
+ countchr:45 	 currentchr:v	 118 	 
+ countchr:46 	 currentchr::	 58 	 
+ countchr:47 	 currentchr:7	 55 	 
+ countchr:48 	 currentchr:8	 56 	 
+ countchr:49 	 currentchr:.	 46 	 
+ countchr:50 	 currentchr:0	 48 	 
+ countchr:51 	 currentchr:)	 41 	 
+ countchr:52 	 currentchr: 	 32 	 
+ countchr:53 	 currentchr:G	 71 	 
+ countchr:54 	 currentchr:e	 101 	 
+ countchr:55 	 currentchr:c	 99 	 
+ countchr:56 	 currentchr:k	 107 	 
+ countchr:57 	 currentchr:o	 111 	 
+ countchr:58 	 currentchr:/	 47 	 
+ countchr:59 	 currentchr:2	 50 	 
+ countchr:60 	 currentchr:0	 48 	 
+ countchr:61 	 currentchr:1	 49 	 
+ countchr:62 	 currentchr:0	 48 	 
+ countchr:63 	 currentchr:0	 48 	 
+ countchr:64 	 currentchr:1	 49 	 
+ countchr:65 	 currentchr:0	 48 	 
+ countchr:66 	 currentchr:1	 49 	 
+ countchr:67 	 currentchr: 	 32 	 
+ countchr:68 	 currentchr:F	 70 	 
+ countchr:69 	 currentchr:i	 105 	 
+ countchr:70 	 currentchr:r	 114 	 
+ countchr:71 	 currentchr:e	 101 	 
+ countchr:72 	 currentchr:f	 102 	 
+ countchr:73 	 currentchr:o	 111 	 
+ countchr:74 	 currentchr:x	 120 	 
+ countchr:75 	 currentchr:/	 47 	 
+ countchr:76 	 currentchr:7	 55 	 
+ countchr:77 	 currentchr:8	 56 	 
+ countchr:78 	 currentchr:.	 46 	 
+ countchr:79 	 currentchr:0	 48 	 
+ countchr:80 	 currentchr:	 13 	 
+ countchr:81 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 4 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr::	 58 	 
+ countchr:7 	 currentchr: 	 32 	 
+ countchr:8 	 currentchr:t	 116 	 
+ countchr:9 	 currentchr:e	 101 	 
+ countchr:10 	 currentchr:x	 120 	 
+ countchr:11 	 currentchr:t	 116 	 
+ countchr:12 	 currentchr:/	 47 	 
+ countchr:13 	 currentchr:h	 104 	 
+ countchr:14 	 currentchr:t	 116 	 
+ countchr:15 	 currentchr:m	 109 	 
+ countchr:16 	 currentchr:l	 108 	 
+ countchr:17 	 currentchr:,	 44 	 
+ countchr:18 	 currentchr:a	 97 	 
+ countchr:19 	 currentchr:p	 112 	 
+ countchr:20 	 currentchr:p	 112 	 
+ countchr:21 	 currentchr:l	 108 	 
+ countchr:22 	 currentchr:i	 105 	 
+ countchr:23 	 currentchr:c	 99 	 
+ countchr:24 	 currentchr:a	 97 	 
+ countchr:25 	 currentchr:t	 116 	 
+ countchr:26 	 currentchr:i	 105 	 
+ countchr:27 	 currentchr:o	 111 	 
+ countchr:28 	 currentchr:n	 110 	 
+ countchr:29 	 currentchr:/	 47 	 
+ countchr:30 	 currentchr:x	 120 	 
+ countchr:31 	 currentchr:h	 104 	 
+ countchr:32 	 currentchr:t	 116 	 
+ countchr:33 	 currentchr:m	 109 	 
+ countchr:34 	 currentchr:l	 108 	 
+ countchr:35 	 currentchr:+	 43 	 
+ countchr:36 	 currentchr:x	 120 	 
+ countchr:37 	 currentchr:m	 109 	 
+ countchr:38 	 currentchr:l	 108 	 
+ countchr:39 	 currentchr:,	 44 	 
+ countchr:40 	 currentchr:a	 97 	 
+ countchr:41 	 currentchr:p	 112 	 
+ countchr:42 	 currentchr:p	 112 	 
+ countchr:43 	 currentchr:l	 108 	 
+ countchr:44 	 currentchr:i	 105 	 
+ countchr:45 	 currentchr:c	 99 	 
+ countchr:46 	 currentchr:a	 97 	 
+ countchr:47 	 currentchr:t	 116 	 
+ countchr:48 	 currentchr:i	 105 	 
+ countchr:49 	 currentchr:o	 111 	 
+ countchr:50 	 currentchr:n	 110 	 
+ countchr:51 	 currentchr:/	 47 	 
+ countchr:52 	 currentchr:x	 120 	 
+ countchr:53 	 currentchr:m	 109 	 
+ countchr:54 	 currentchr:l	 108 	 
+ countchr:55 	 currentchr:;	 59 	 
+ countchr:56 	 currentchr:q	 113 	 
+ countchr:57 	 currentchr:=	 61 	 
+ countchr:58 	 currentchr:0	 48 	 
+ countchr:59 	 currentchr:.	 46 	 
+ countchr:60 	 currentchr:9	 57 	 
+ countchr:61 	 currentchr:,	 44 	 
+ countchr:62 	 currentchr:i	 105 	 
+ countchr:63 	 currentchr:m	 109 	 
+ countchr:64 	 currentchr:a	 97 	 
+ countchr:65 	 currentchr:g	 103 	 
+ countchr:66 	 currentchr:e	 101 	 
+ countchr:67 	 currentchr:/	 47 	 
+ countchr:68 	 currentchr:w	 119 	 
+ countchr:69 	 currentchr:e	 101 	 
+ countchr:70 	 currentchr:b	 98 	 
+ countchr:71 	 currentchr:p	 112 	 
+ countchr:72 	 currentchr:,	 44 	 
+ countchr:73 	 currentchr:*	 42 	 
+ countchr:74 	 currentchr:/	 47 	 
+ countchr:75 	 currentchr:*	 42 	 
+ countchr:76 	 currentchr:;	 59 	 
+ countchr:77 	 currentchr:q	 113 	 
+ countchr:78 	 currentchr:=	 61 	 
+ countchr:79 	 currentchr:0	 48 	 
+ countchr:80 	 currentchr:.	 46 	 
+ countchr:81 	 currentchr:8	 56 	 
+ countchr:82 	 currentchr:	 13 	 
+ countchr:83 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 5 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept-Language: en-US,en;q=0.5
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr:-	 45 	 
+ countchr:7 	 currentchr:L	 76 	 
+ countchr:8 	 currentchr:a	 97 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr:g	 103 	 
+ countchr:11 	 currentchr:u	 117 	 
+ countchr:12 	 currentchr:a	 97 	 
+ countchr:13 	 currentchr:g	 103 	 
+ countchr:14 	 currentchr:e	 101 	 
+ countchr:15 	 currentchr::	 58 	 
+ countchr:16 	 currentchr: 	 32 	 
+ countchr:17 	 currentchr:e	 101 	 
+ countchr:18 	 currentchr:n	 110 	 
+ countchr:19 	 currentchr:-	 45 	 
+ countchr:20 	 currentchr:U	 85 	 
+ countchr:21 	 currentchr:S	 83 	 
+ countchr:22 	 currentchr:,	 44 	 
+ countchr:23 	 currentchr:e	 101 	 
+ countchr:24 	 currentchr:n	 110 	 
+ countchr:25 	 currentchr:;	 59 	 
+ countchr:26 	 currentchr:q	 113 	 
+ countchr:27 	 currentchr:=	 61 	 
+ countchr:28 	 currentchr:0	 48 	 
+ countchr:29 	 currentchr:.	 46 	 
+ countchr:30 	 currentchr:5	 53 	 
+ countchr:31 	 currentchr:	 13 	 
+ countchr:32 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 6 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept-Encoding: gzip, deflate
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr:-	 45 	 
+ countchr:7 	 currentchr:E	 69 	 
+ countchr:8 	 currentchr:n	 110 	 
+ countchr:9 	 currentchr:c	 99 	 
+ countchr:10 	 currentchr:o	 111 	 
+ countchr:11 	 currentchr:d	 100 	 
+ countchr:12 	 currentchr:i	 105 	 
+ countchr:13 	 currentchr:n	 110 	 
+ countchr:14 	 currentchr:g	 103 	 
+ countchr:15 	 currentchr::	 58 	 
+ countchr:16 	 currentchr: 	 32 	 
+ countchr:17 	 currentchr:g	 103 	 
+ countchr:18 	 currentchr:z	 122 	 
+ countchr:19 	 currentchr:i	 105 	 
+ countchr:20 	 currentchr:p	 112 	 
+ countchr:21 	 currentchr:,	 44 	 
+ countchr:22 	 currentchr: 	 32 	 
+ countchr:23 	 currentchr:d	 100 	 
+ countchr:24 	 currentchr:e	 101 	 
+ countchr:25 	 currentchr:f	 102 	 
+ countchr:26 	 currentchr:l	 108 	 
+ countchr:27 	 currentchr:a	 97 	 
+ countchr:28 	 currentchr:t	 116 	 
+ countchr:29 	 currentchr:e	 101 	 
+ countchr:30 	 currentchr:	 13 	 
+ countchr:31 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 7 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Connection: keep-alive
+
+ Analysis:
+
+ countchr:0 	 currentchr:C	 67 	 
+ countchr:1 	 currentchr:o	 111 	 
+ countchr:2 	 currentchr:n	 110 	 
+ countchr:3 	 currentchr:n	 110 	 
+ countchr:4 	 currentchr:e	 101 	 
+ countchr:5 	 currentchr:c	 99 	 
+ countchr:6 	 currentchr:t	 116 	 
+ countchr:7 	 currentchr:i	 105 	 
+ countchr:8 	 currentchr:o	 111 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr::	 58 	 
+ countchr:11 	 currentchr: 	 32 	 
+ countchr:12 	 currentchr:k	 107 	 
+ countchr:13 	 currentchr:e	 101 	 
+ countchr:14 	 currentchr:e	 101 	 
+ countchr:15 	 currentchr:p	 112 	 
+ countchr:16 	 currentchr:-	 45 	 
+ countchr:17 	 currentchr:a	 97 	 
+ countchr:18 	 currentchr:l	 108 	 
+ countchr:19 	 currentchr:i	 105 	 
+ countchr:20 	 currentchr:v	 118 	 
+ countchr:21 	 currentchr:e	 101 	 
+ countchr:22 	 currentchr:	 13 	 
+ countchr:23 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 8 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Upgrade-Insecure-Requests: 1
+
+ Analysis:
+
+ countchr:0 	 currentchr:U	 85 	 
+ countchr:1 	 currentchr:p	 112 	 
+ countchr:2 	 currentchr:g	 103 	 
+ countchr:3 	 currentchr:r	 114 	 
+ countchr:4 	 currentchr:a	 97 	 
+ countchr:5 	 currentchr:d	 100 	 
+ countchr:6 	 currentchr:e	 101 	 
+ countchr:7 	 currentchr:-	 45 	 
+ countchr:8 	 currentchr:I	 73 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr:s	 115 	 
+ countchr:11 	 currentchr:e	 101 	 
+ countchr:12 	 currentchr:c	 99 	 
+ countchr:13 	 currentchr:u	 117 	 
+ countchr:14 	 currentchr:r	 114 	 
+ countchr:15 	 currentchr:e	 101 	 
+ countchr:16 	 currentchr:-	 45 	 
+ countchr:17 	 currentchr:R	 82 	 
+ countchr:18 	 currentchr:e	 101 	 
+ countchr:19 	 currentchr:q	 113 	 
+ countchr:20 	 currentchr:u	 117 	 
+ countchr:21 	 currentchr:e	 101 	 
+ countchr:22 	 currentchr:s	 115 	 
+ countchr:23 	 currentchr:t	 116 	 
+ countchr:24 	 currentchr:s	 115 	 
+ countchr:25 	 currentchr::	 58 	 
+ countchr:26 	 currentchr: 	 32 	 
+ countchr:27 	 currentchr:1	 49 	 
+ countchr:28 	 currentchr:	 13 	 
+ countchr:29 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 9 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :
+
+ Analysis:
+
+ countchr:0 	 currentchr:	 13 	 
+ countchr:1 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 10 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+*** We timed out *** 
+ no input for 30 seconds so I disconnected their asses at Wed Nov 24 09:47:53 2021
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 80, probably an Nmap scan.
+ Time:Wed Nov 24 09:59:10 2021 Process ID: 2211 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 80, probably an Nmap scan.
+ Time:Wed Nov 24 09:59:10 2021 Process ID: 2213 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 8080, probably an Nmap scan.
+ Time:Wed Nov 24 09:59:10 2021 Process ID: 2212 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 81, probably an Nmap scan.
+ Time:Wed Nov 24 09:59:10 2021 Process ID: 2219 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ############## tcp server: AN EVIL HACKER CONNECTED TO US! #########################
+
+ *** Looptimes:1  *** Time: Wed Nov 24 10:00:47 2021  *** 
+ Them: 192.168.1.3 port 55204
+ Us: (our own IP) port 8080
+________________________________________________________________
+ The client has contacted us 1 times this session 
+ Server:HTTP/1.1 200 OK
+Date: Sat, 07 Oct 2017 18:43:18 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 849
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html> <title> Hello, friends!</title>
+
+<body bgcolor="blue">
+ <font color="yellow">
+<P>
+<B> ATAQUE DETECTADO </B>
+<P>
+A un panal de rica miel dos mil moscas acudieron, que por golosas 
+murieron presas de patas en el
+<P>
+<B>
+capturando datos del atacante
+</B>
+<P>
+<I> INICIAMOS ACCIONES LEGALES</I>
+</font> 
+</HTML>
+
+
+________________________________________________________________
+Client :GET / HTTP/1.1
+
+ Analysis:
+
+ countchr:0 	 currentchr:G	 71 	 
+ countchr:1 	 currentchr:E	 69 	 
+ countchr:2 	 currentchr:T	 84 	 
+ countchr:3 	 currentchr: 	 32 	 
+ countchr:4 	 currentchr:/	 47 	 
+ countchr:5 	 currentchr: 	 32 	 
+ countchr:6 	 currentchr:H	 72 	 
+ countchr:7 	 currentchr:T	 84 	 
+ countchr:8 	 currentchr:T	 84 	 
+ countchr:9 	 currentchr:P	 80 	 
+ countchr:10 	 currentchr:/	 47 	 
+ countchr:11 	 currentchr:1	 49 	 
+ countchr:12 	 currentchr:.	 46 	 
+ countchr:13 	 currentchr:1	 49 	 
+ countchr:14 	 currentchr:	 13 	 
+ countchr:15 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 2 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Host: 192.168.1.2:8080
+
+ Analysis:
+
+ countchr:0 	 currentchr:H	 72 	 
+ countchr:1 	 currentchr:o	 111 	 
+ countchr:2 	 currentchr:s	 115 	 
+ countchr:3 	 currentchr:t	 116 	 
+ countchr:4 	 currentchr::	 58 	 
+ countchr:5 	 currentchr: 	 32 	 
+ countchr:6 	 currentchr:1	 49 	 
+ countchr:7 	 currentchr:9	 57 	 
+ countchr:8 	 currentchr:2	 50 	 
+ countchr:9 	 currentchr:.	 46 	 
+ countchr:10 	 currentchr:1	 49 	 
+ countchr:11 	 currentchr:6	 54 	 
+ countchr:12 	 currentchr:8	 56 	 
+ countchr:13 	 currentchr:.	 46 	 
+ countchr:14 	 currentchr:1	 49 	 
+ countchr:15 	 currentchr:.	 46 	 
+ countchr:16 	 currentchr:2	 50 	 
+ countchr:17 	 currentchr::	 58 	 
+ countchr:18 	 currentchr:8	 56 	 
+ countchr:19 	 currentchr:0	 48 	 
+ countchr:20 	 currentchr:8	 56 	 
+ countchr:21 	 currentchr:0	 48 	 
+ countchr:22 	 currentchr:	 13 	 
+ countchr:23 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 3 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+
+ Analysis:
+
+ countchr:0 	 currentchr:U	 85 	 
+ countchr:1 	 currentchr:s	 115 	 
+ countchr:2 	 currentchr:e	 101 	 
+ countchr:3 	 currentchr:r	 114 	 
+ countchr:4 	 currentchr:-	 45 	 
+ countchr:5 	 currentchr:A	 65 	 
+ countchr:6 	 currentchr:g	 103 	 
+ countchr:7 	 currentchr:e	 101 	 
+ countchr:8 	 currentchr:n	 110 	 
+ countchr:9 	 currentchr:t	 116 	 
+ countchr:10 	 currentchr::	 58 	 
+ countchr:11 	 currentchr: 	 32 	 
+ countchr:12 	 currentchr:M	 77 	 
+ countchr:13 	 currentchr:o	 111 	 
+ countchr:14 	 currentchr:z	 122 	 
+ countchr:15 	 currentchr:i	 105 	 
+ countchr:16 	 currentchr:l	 108 	 
+ countchr:17 	 currentchr:l	 108 	 
+ countchr:18 	 currentchr:a	 97 	 
+ countchr:19 	 currentchr:/	 47 	 
+ countchr:20 	 currentchr:5	 53 	 
+ countchr:21 	 currentchr:.	 46 	 
+ countchr:22 	 currentchr:0	 48 	 
+ countchr:23 	 currentchr: 	 32 	 
+ countchr:24 	 currentchr:(	 40 	 
+ countchr:25 	 currentchr:X	 88 	 
+ countchr:26 	 currentchr:1	 49 	 
+ countchr:27 	 currentchr:1	 49 	 
+ countchr:28 	 currentchr:;	 59 	 
+ countchr:29 	 currentchr: 	 32 	 
+ countchr:30 	 currentchr:L	 76 	 
+ countchr:31 	 currentchr:i	 105 	 
+ countchr:32 	 currentchr:n	 110 	 
+ countchr:33 	 currentchr:u	 117 	 
+ countchr:34 	 currentchr:x	 120 	 
+ countchr:35 	 currentchr: 	 32 	 
+ countchr:36 	 currentchr:x	 120 	 
+ countchr:37 	 currentchr:8	 56 	 
+ countchr:38 	 currentchr:6	 54 	 
+ countchr:39 	 currentchr:_	 95 	 
+ countchr:40 	 currentchr:6	 54 	 
+ countchr:41 	 currentchr:4	 52 	 
+ countchr:42 	 currentchr:;	 59 	 
+ countchr:43 	 currentchr: 	 32 	 
+ countchr:44 	 currentchr:r	 114 	 
+ countchr:45 	 currentchr:v	 118 	 
+ countchr:46 	 currentchr::	 58 	 
+ countchr:47 	 currentchr:7	 55 	 
+ countchr:48 	 currentchr:8	 56 	 
+ countchr:49 	 currentchr:.	 46 	 
+ countchr:50 	 currentchr:0	 48 	 
+ countchr:51 	 currentchr:)	 41 	 
+ countchr:52 	 currentchr: 	 32 	 
+ countchr:53 	 currentchr:G	 71 	 
+ countchr:54 	 currentchr:e	 101 	 
+ countchr:55 	 currentchr:c	 99 	 
+ countchr:56 	 currentchr:k	 107 	 
+ countchr:57 	 currentchr:o	 111 	 
+ countchr:58 	 currentchr:/	 47 	 
+ countchr:59 	 currentchr:2	 50 	 
+ countchr:60 	 currentchr:0	 48 	 
+ countchr:61 	 currentchr:1	 49 	 
+ countchr:62 	 currentchr:0	 48 	 
+ countchr:63 	 currentchr:0	 48 	 
+ countchr:64 	 currentchr:1	 49 	 
+ countchr:65 	 currentchr:0	 48 	 
+ countchr:66 	 currentchr:1	 49 	 
+ countchr:67 	 currentchr: 	 32 	 
+ countchr:68 	 currentchr:F	 70 	 
+ countchr:69 	 currentchr:i	 105 	 
+ countchr:70 	 currentchr:r	 114 	 
+ countchr:71 	 currentchr:e	 101 	 
+ countchr:72 	 currentchr:f	 102 	 
+ countchr:73 	 currentchr:o	 111 	 
+ countchr:74 	 currentchr:x	 120 	 
+ countchr:75 	 currentchr:/	 47 	 
+ countchr:76 	 currentchr:7	 55 	 
+ countchr:77 	 currentchr:8	 56 	 
+ countchr:78 	 currentchr:.	 46 	 
+ countchr:79 	 currentchr:0	 48 	 
+ countchr:80 	 currentchr:	 13 	 
+ countchr:81 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 4 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr::	 58 	 
+ countchr:7 	 currentchr: 	 32 	 
+ countchr:8 	 currentchr:t	 116 	 
+ countchr:9 	 currentchr:e	 101 	 
+ countchr:10 	 currentchr:x	 120 	 
+ countchr:11 	 currentchr:t	 116 	 
+ countchr:12 	 currentchr:/	 47 	 
+ countchr:13 	 currentchr:h	 104 	 
+ countchr:14 	 currentchr:t	 116 	 
+ countchr:15 	 currentchr:m	 109 	 
+ countchr:16 	 currentchr:l	 108 	 
+ countchr:17 	 currentchr:,	 44 	 
+ countchr:18 	 currentchr:a	 97 	 
+ countchr:19 	 currentchr:p	 112 	 
+ countchr:20 	 currentchr:p	 112 	 
+ countchr:21 	 currentchr:l	 108 	 
+ countchr:22 	 currentchr:i	 105 	 
+ countchr:23 	 currentchr:c	 99 	 
+ countchr:24 	 currentchr:a	 97 	 
+ countchr:25 	 currentchr:t	 116 	 
+ countchr:26 	 currentchr:i	 105 	 
+ countchr:27 	 currentchr:o	 111 	 
+ countchr:28 	 currentchr:n	 110 	 
+ countchr:29 	 currentchr:/	 47 	 
+ countchr:30 	 currentchr:x	 120 	 
+ countchr:31 	 currentchr:h	 104 	 
+ countchr:32 	 currentchr:t	 116 	 
+ countchr:33 	 currentchr:m	 109 	 
+ countchr:34 	 currentchr:l	 108 	 
+ countchr:35 	 currentchr:+	 43 	 
+ countchr:36 	 currentchr:x	 120 	 
+ countchr:37 	 currentchr:m	 109 	 
+ countchr:38 	 currentchr:l	 108 	 
+ countchr:39 	 currentchr:,	 44 	 
+ countchr:40 	 currentchr:a	 97 	 
+ countchr:41 	 currentchr:p	 112 	 
+ countchr:42 	 currentchr:p	 112 	 
+ countchr:43 	 currentchr:l	 108 	 
+ countchr:44 	 currentchr:i	 105 	 
+ countchr:45 	 currentchr:c	 99 	 
+ countchr:46 	 currentchr:a	 97 	 
+ countchr:47 	 currentchr:t	 116 	 
+ countchr:48 	 currentchr:i	 105 	 
+ countchr:49 	 currentchr:o	 111 	 
+ countchr:50 	 currentchr:n	 110 	 
+ countchr:51 	 currentchr:/	 47 	 
+ countchr:52 	 currentchr:x	 120 	 
+ countchr:53 	 currentchr:m	 109 	 
+ countchr:54 	 currentchr:l	 108 	 
+ countchr:55 	 currentchr:;	 59 	 
+ countchr:56 	 currentchr:q	 113 	 
+ countchr:57 	 currentchr:=	 61 	 
+ countchr:58 	 currentchr:0	 48 	 
+ countchr:59 	 currentchr:.	 46 	 
+ countchr:60 	 currentchr:9	 57 	 
+ countchr:61 	 currentchr:,	 44 	 
+ countchr:62 	 currentchr:i	 105 	 
+ countchr:63 	 currentchr:m	 109 	 
+ countchr:64 	 currentchr:a	 97 	 
+ countchr:65 	 currentchr:g	 103 	 
+ countchr:66 	 currentchr:e	 101 	 
+ countchr:67 	 currentchr:/	 47 	 
+ countchr:68 	 currentchr:w	 119 	 
+ countchr:69 	 currentchr:e	 101 	 
+ countchr:70 	 currentchr:b	 98 	 
+ countchr:71 	 currentchr:p	 112 	 
+ countchr:72 	 currentchr:,	 44 	 
+ countchr:73 	 currentchr:*	 42 	 
+ countchr:74 	 currentchr:/	 47 	 
+ countchr:75 	 currentchr:*	 42 	 
+ countchr:76 	 currentchr:;	 59 	 
+ countchr:77 	 currentchr:q	 113 	 
+ countchr:78 	 currentchr:=	 61 	 
+ countchr:79 	 currentchr:0	 48 	 
+ countchr:80 	 currentchr:.	 46 	 
+ countchr:81 	 currentchr:8	 56 	 
+ countchr:82 	 currentchr:	 13 	 
+ countchr:83 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 5 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept-Language: en-US,en;q=0.5
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr:-	 45 	 
+ countchr:7 	 currentchr:L	 76 	 
+ countchr:8 	 currentchr:a	 97 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr:g	 103 	 
+ countchr:11 	 currentchr:u	 117 	 
+ countchr:12 	 currentchr:a	 97 	 
+ countchr:13 	 currentchr:g	 103 	 
+ countchr:14 	 currentchr:e	 101 	 
+ countchr:15 	 currentchr::	 58 	 
+ countchr:16 	 currentchr: 	 32 	 
+ countchr:17 	 currentchr:e	 101 	 
+ countchr:18 	 currentchr:n	 110 	 
+ countchr:19 	 currentchr:-	 45 	 
+ countchr:20 	 currentchr:U	 85 	 
+ countchr:21 	 currentchr:S	 83 	 
+ countchr:22 	 currentchr:,	 44 	 
+ countchr:23 	 currentchr:e	 101 	 
+ countchr:24 	 currentchr:n	 110 	 
+ countchr:25 	 currentchr:;	 59 	 
+ countchr:26 	 currentchr:q	 113 	 
+ countchr:27 	 currentchr:=	 61 	 
+ countchr:28 	 currentchr:0	 48 	 
+ countchr:29 	 currentchr:.	 46 	 
+ countchr:30 	 currentchr:5	 53 	 
+ countchr:31 	 currentchr:	 13 	 
+ countchr:32 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 6 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Accept-Encoding: gzip, deflate
+
+ Analysis:
+
+ countchr:0 	 currentchr:A	 65 	 
+ countchr:1 	 currentchr:c	 99 	 
+ countchr:2 	 currentchr:c	 99 	 
+ countchr:3 	 currentchr:e	 101 	 
+ countchr:4 	 currentchr:p	 112 	 
+ countchr:5 	 currentchr:t	 116 	 
+ countchr:6 	 currentchr:-	 45 	 
+ countchr:7 	 currentchr:E	 69 	 
+ countchr:8 	 currentchr:n	 110 	 
+ countchr:9 	 currentchr:c	 99 	 
+ countchr:10 	 currentchr:o	 111 	 
+ countchr:11 	 currentchr:d	 100 	 
+ countchr:12 	 currentchr:i	 105 	 
+ countchr:13 	 currentchr:n	 110 	 
+ countchr:14 	 currentchr:g	 103 	 
+ countchr:15 	 currentchr::	 58 	 
+ countchr:16 	 currentchr: 	 32 	 
+ countchr:17 	 currentchr:g	 103 	 
+ countchr:18 	 currentchr:z	 122 	 
+ countchr:19 	 currentchr:i	 105 	 
+ countchr:20 	 currentchr:p	 112 	 
+ countchr:21 	 currentchr:,	 44 	 
+ countchr:22 	 currentchr: 	 32 	 
+ countchr:23 	 currentchr:d	 100 	 
+ countchr:24 	 currentchr:e	 101 	 
+ countchr:25 	 currentchr:f	 102 	 
+ countchr:26 	 currentchr:l	 108 	 
+ countchr:27 	 currentchr:a	 97 	 
+ countchr:28 	 currentchr:t	 116 	 
+ countchr:29 	 currentchr:e	 101 	 
+ countchr:30 	 currentchr:	 13 	 
+ countchr:31 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 7 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Connection: keep-alive
+
+ Analysis:
+
+ countchr:0 	 currentchr:C	 67 	 
+ countchr:1 	 currentchr:o	 111 	 
+ countchr:2 	 currentchr:n	 110 	 
+ countchr:3 	 currentchr:n	 110 	 
+ countchr:4 	 currentchr:e	 101 	 
+ countchr:5 	 currentchr:c	 99 	 
+ countchr:6 	 currentchr:t	 116 	 
+ countchr:7 	 currentchr:i	 105 	 
+ countchr:8 	 currentchr:o	 111 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr::	 58 	 
+ countchr:11 	 currentchr: 	 32 	 
+ countchr:12 	 currentchr:k	 107 	 
+ countchr:13 	 currentchr:e	 101 	 
+ countchr:14 	 currentchr:e	 101 	 
+ countchr:15 	 currentchr:p	 112 	 
+ countchr:16 	 currentchr:-	 45 	 
+ countchr:17 	 currentchr:a	 97 	 
+ countchr:18 	 currentchr:l	 108 	 
+ countchr:19 	 currentchr:i	 105 	 
+ countchr:20 	 currentchr:v	 118 	 
+ countchr:21 	 currentchr:e	 101 	 
+ countchr:22 	 currentchr:	 13 	 
+ countchr:23 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 8 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :Upgrade-Insecure-Requests: 1
+
+ Analysis:
+
+ countchr:0 	 currentchr:U	 85 	 
+ countchr:1 	 currentchr:p	 112 	 
+ countchr:2 	 currentchr:g	 103 	 
+ countchr:3 	 currentchr:r	 114 	 
+ countchr:4 	 currentchr:a	 97 	 
+ countchr:5 	 currentchr:d	 100 	 
+ countchr:6 	 currentchr:e	 101 	 
+ countchr:7 	 currentchr:-	 45 	 
+ countchr:8 	 currentchr:I	 73 	 
+ countchr:9 	 currentchr:n	 110 	 
+ countchr:10 	 currentchr:s	 115 	 
+ countchr:11 	 currentchr:e	 101 	 
+ countchr:12 	 currentchr:c	 99 	 
+ countchr:13 	 currentchr:u	 117 	 
+ countchr:14 	 currentchr:r	 114 	 
+ countchr:15 	 currentchr:e	 101 	 
+ countchr:16 	 currentchr:-	 45 	 
+ countchr:17 	 currentchr:R	 82 	 
+ countchr:18 	 currentchr:e	 101 	 
+ countchr:19 	 currentchr:q	 113 	 
+ countchr:20 	 currentchr:u	 117 	 
+ countchr:21 	 currentchr:e	 101 	 
+ countchr:22 	 currentchr:s	 115 	 
+ countchr:23 	 currentchr:t	 116 	 
+ countchr:24 	 currentchr:s	 115 	 
+ countchr:25 	 currentchr::	 58 	 
+ countchr:26 	 currentchr: 	 32 	 
+ countchr:27 	 currentchr:1	 49 	 
+ countchr:28 	 currentchr:	 13 	 
+ countchr:29 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 9 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+Client :
+
+ Analysis:
+
+ countchr:0 	 currentchr:	 13 	 
+ countchr:1 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 10 times this session 
+ Server:HTTP/1.1 200 OK
+
+________________________________________________________________
+*** We timed out *** 
+ no input for 30 seconds so I disconnected their asses at Wed Nov 24 10:01:17 2021
+________________________________________________________________

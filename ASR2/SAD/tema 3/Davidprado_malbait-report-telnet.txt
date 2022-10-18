@@ -1,0 +1,153 @@
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 2323, probably an Nmap scan.
+ Time:Wed Nov 24 09:44:15 2021 Process ID: 2031 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 23, probably an Nmap scan.
+ Time:Wed Nov 24 09:44:15 2021 Process ID: 2029 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 992, probably an Nmap scan.
+ Time:Wed Nov 24 09:44:15 2021 Process ID: 2030 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ####################   CAN'T IDENTIFY CLIENT!  ############################
+ Couldn't ID client on port 9999, probably an Nmap scan.
+ Time:Wed Nov 24 09:44:15 2021 Process ID: 2034 System Error: ($!): Transport endpoint is not connected 
+________________________________________________________________
+
+ ############## tcp server: AN EVIL HACKER CONNECTED TO US! #########################
+
+ *** Looptimes:1  *** Time: Wed Nov 24 09:44:21 2021  *** 
+ Them: 192.168.1.3 port 39580
+ Us: (our own IP) port 23
+________________________________________________________________
+ The client has contacted us 1 times this session 
+ Server:Username:
+________________________________________________________________
+Client :ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#usuariodavidprado
+
+ Analysis:
+
+ countchr:0 	 currentchr:ÿ	 255 	 
+ countchr:1 	 currentchr:ý	 253 	 
+ countchr:2 	 currentchr:	 3 	 
+ countchr:3 	 currentchr:ÿ	 255 	 
+ countchr:4 	 currentchr:û	 251 	 
+ countchr:5 	 currentchr:	 24 	 
+ countchr:6 	 currentchr:ÿ	 255 	 
+ countchr:7 	 currentchr:û	 251 	 
+ countchr:8 	 currentchr:	 31 	 
+ countchr:9 	 currentchr:ÿ	 255 	 
+ countchr:10 	 currentchr:û	 251 	 
+ countchr:11 	 currentchr: 	 32 	 
+ countchr:12 	 currentchr:ÿ	 255 	 
+ countchr:13 	 currentchr:û	 251 	 
+ countchr:14 	 currentchr:!	 33 	 
+ countchr:15 	 currentchr:ÿ	 255 	 
+ countchr:16 	 currentchr:û	 251 	 
+ countchr:17 	 currentchr:"	 34 	 
+ countchr:18 	 currentchr:ÿ	 255 	 
+ countchr:19 	 currentchr:û	 251 	 
+ countchr:20 	 currentchr:'	 39 	 
+ countchr:21 	 currentchr:ÿ	 255 	 
+ countchr:22 	 currentchr:ý	 253 	 
+ countchr:23 	 currentchr:	 5 	 
+ countchr:24 	 currentchr:ÿ	 255 	 
+ countchr:25 	 currentchr:û	 251 	 
+ countchr:26 	 currentchr:#	 35 	 
+ countchr:27 	 currentchr:u	 117 	 
+ countchr:28 	 currentchr:s	 115 	 
+ countchr:29 	 currentchr:u	 117 	 
+ countchr:30 	 currentchr:a	 97 	 
+ countchr:31 	 currentchr:r	 114 	 
+ countchr:32 	 currentchr:i	 105 	 
+ countchr:33 	 currentchr:o	 111 	 
+ countchr:34 	 currentchr:d	 100 	 
+ countchr:35 	 currentchr:a	 97 	 
+ countchr:36 	 currentchr:v	 118 	 
+ countchr:37 	 currentchr:i	 105 	 
+ countchr:38 	 currentchr:d	 100 	 
+ countchr:39 	 currentchr:p	 112 	 
+ countchr:40 	 currentchr:r	 114 	 
+ countchr:41 	 currentchr:a	 97 	 
+ countchr:42 	 currentchr:d	 100 	 
+ countchr:43 	 currentchr:o	 111 	 
+ countchr:44 	 currentchr:	 13 	 
+ countchr:45 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 2 times this session 
+ Server:Password:
+________________________________________________________________
+Client :contrasenadavidprado
+
+ Analysis:
+
+ countchr:0 	 currentchr:c	 99 	 
+ countchr:1 	 currentchr:o	 111 	 
+ countchr:2 	 currentchr:n	 110 	 
+ countchr:3 	 currentchr:t	 116 	 
+ countchr:4 	 currentchr:r	 114 	 
+ countchr:5 	 currentchr:a	 97 	 
+ countchr:6 	 currentchr:s	 115 	 
+ countchr:7 	 currentchr:e	 101 	 
+ countchr:8 	 currentchr:n	 110 	 
+ countchr:9 	 currentchr:a	 97 	 
+ countchr:10 	 currentchr:d	 100 	 
+ countchr:11 	 currentchr:a	 97 	 
+ countchr:12 	 currentchr:v	 118 	 
+ countchr:13 	 currentchr:i	 105 	 
+ countchr:14 	 currentchr:d	 100 	 
+ countchr:15 	 currentchr:p	 112 	 
+ countchr:16 	 currentchr:r	 114 	 
+ countchr:17 	 currentchr:a	 97 	 
+ countchr:18 	 currentchr:d	 100 	 
+ countchr:19 	 currentchr:o	 111 	 
+ countchr:20 	 currentchr:	 13 	 
+ countchr:21 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 3 times this session 
+ Server:Login successful.
+Computer:~$ 
+________________________________________________________________
+Client :
+
+ Analysis:
+
+ countchr:0 	 currentchr:	 13 	 
+ countchr:1 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 4 times this session 
+ Server:Computer:~$ 
+________________________________________________________________
+Client :
+
+ Analysis:
+
+ countchr:0 	 currentchr:	 13 	 
+ countchr:1 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 5 times this session 
+ Server:Computer:~$ 
+________________________________________________________________
+Client :
+
+ Analysis:
+
+ countchr:0 	 currentchr:	 13 	 
+ countchr:1 	 currentchr:
+	 10 	 
+________________________________________________________________
+ The client has contacted us 6 times this session 
+ Server:Computer:~$ 
+________________________________________________________________
+*** We timed out *** 
+ no input for 30 seconds so I disconnected their asses at Wed Nov 24 09:45:07 2021
+________________________________________________________________
